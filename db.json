@@ -5,6 +5,146 @@
       "title": "hello"
     }
   ],
+  "categories": [
+      {
+        "header_image": "",
+        "sys_id": "eb20defcdbf52f00f22fbedffe961963",
+        "description": null,
+        "title": "BI Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "bf6da095dbeb66000e85bc2ffe9619f1",
+        "description": "Business Services",
+        "title": "Business Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "1c8112addb85afc0f22fbedffe96199c",
+        "description": null,
+        "title": "Collaboration"
+      },
+      {
+        "header_image": "",
+        "sys_id": "5c9922cbdb1fdb80f22fbedffe9619aa",
+        "description": "Füge oder ändere einen Eintrag in der Konfigurationstabelle",
+        "title": "Konfiguration"
+      },
+      {
+        "header_image": "",
+        "sys_id": "a82492eddb85afc0f22fbedffe961996",
+        "description": null,
+        "title": "Cross Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "c2d41ae1dbc5afc0f22fbedffe961974",
+        "description": null,
+        "title": "Digital Plattform"
+      },
+      {
+        "header_image": "",
+        "sys_id": "01755ef8dbad5f00f22fbedffe961909",
+        "description": "Mitarbeiter Wechsel initiieren",
+        "title": "Mitarbeiter Wechsel"
+      },
+      {
+        "header_image": "",
+        "sys_id": "a1259ab8dbad5f00f22fbedffe96190e",
+        "description": "Mitarbeiter Eintritt initiieren",
+        "title": "Mitarbeiter Eintritt"
+      },
+      {
+        "header_image": "",
+        "sys_id": "3c559af8dbad5f00f22fbedffe9619a9",
+        "description": "Mitarbeiter Austritt initiieren",
+        "title": "Mitarbeiter Austritt"
+      },
+      {
+        "header_image": "",
+        "sys_id": "e005dae1dbc5afc0f22fbedffe9619c8",
+        "description": null,
+        "title": "ERP & CRM"
+      },
+      {
+        "header_image": "",
+        "sys_id": "b5efc630db392f00f22fbedffe96192d",
+        "description": null,
+        "title": "Finance Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "a0109a30db392f00f22fbedffe9619a2",
+        "description": null,
+        "title": "HR Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "e564d2b8dbad5f00f22fbedffe9619f2",
+        "description": "HR Tool für den  Mitarbeiter Eintritt/Austritt",
+        "title": "Human Resource Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "fe84a3e3dbb6b600f22fbedffe961977",
+        "description": "All services that belong to infrastructure",
+        "title": "Infrastructure"
+      },
+      {
+        "header_image": "",
+        "sys_id": "8020defcdbf52f00f22fbedffe9619c7",
+        "description": null,
+        "title": "Logistic Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "f85afc06db79fe00f22fbedffe9619de",
+        "description": null,
+        "title": "Profilpflege"
+      },
+      {
+        "header_image": "",
+        "sys_id": "82401270db392f00f22fbedffe961998",
+        "description": null,
+        "title": "Purchase Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "b6301a30db392f00f22fbedffe96198f",
+        "description": null,
+        "title": "Sales Services"
+      },
+      {
+        "header_image": "",
+        "sys_id": "8036b6dadb6962000e85bc2ffe96195e",
+        "description": "Service & Support",
+        "title": "Service & Support"
+      },
+      {
+        "header_image": "",
+        "sys_id": "a8db58f6dba52200f22fbedffe961931",
+        "description": null,
+        "title": "Standard Change"
+      },
+      {
+        "header_image": "",
+        "sys_id": "10fbe87edba52200f22fbedffe961956",
+        "description": null,
+        "title": "Unix- / Linux-Systeme"
+      },
+      {
+        "header_image": "",
+        "sys_id": "989bd051db60e3800e85bc2ffe9619fb",
+        "description": null,
+        "title": "User Policies"
+      },
+      {
+        "header_image": "",
+        "sys_id": "0fa5dee1dbc5afc0f22fbedffe961934",
+        "description": null,
+        "title": "Workspace"
+      } 
+  ],
   "profile": {
     "name": "typicode"
   }
